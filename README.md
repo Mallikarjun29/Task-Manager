@@ -6,6 +6,16 @@ This guide explains how to set up a system activity monitoring stack using Prome
 
 ---
 
+# File Structure
+```
+.
+├── README.md
+├── Recording.mp4
+├── Report.pdf
+├── Screenshot.png
+└── model.json
+```
+
 ## Prerequisites
 
 - Ensure Docker is installed on your system. If not, download and install it from [Docker Desktop](https://www.docker.com/products/docker-desktop).
