@@ -1,5 +1,5 @@
 # Task Manager
-
+This a web-based application designed to help users efficiently organize, track, and manage their daily tasks. It allows users to create, update, and delete tasks, set priorities, and monitor progress, making it ideal for personal productivity and project management.
 This guide explains how to set up a system activity monitoring stack using Prometheus, Node Exporter, and Grafana.
 
 ---
