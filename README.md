@@ -1,5 +1,3 @@
-# Assignment 7 DA24S009
-
 # Task Manager
 
 This guide explains how to set up a system activity monitoring stack using Prometheus, Node Exporter, and Grafana.
